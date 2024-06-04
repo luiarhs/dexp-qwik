@@ -9,6 +9,7 @@ export default component$(() => {
         <div class={styles.logo}>
           <a href="/" title="qwik">
             <QwikLogo height={50} width={143} />
+            DEXP
           </a>
         </div>
         <ul>
@@ -17,7 +18,7 @@ export default component$(() => {
               href="https://qwik.dev/docs/components/overview/"
               target="_blank"
             >
-              Docs
+              About
             </a>
           </li>
           <li>
@@ -25,7 +26,7 @@ export default component$(() => {
               href="https://qwik.dev/examples/introduction/hello-world/"
               target="_blank"
             >
-              Examples
+              Contact
             </a>
           </li>
           <li>
@@ -33,7 +34,7 @@ export default component$(() => {
               href="https://qwik.dev/tutorial/welcome/overview/"
               target="_blank"
             >
-              Tutorials
+              FAQ
             </a>
           </li>
         </ul>
