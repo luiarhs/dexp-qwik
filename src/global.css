@@ -21,11 +21,11 @@
   --qwik-light-purple: #ac7ff4;
   --qwik-dark-purple: #713fc2;
   --qwik-dirty-black: #1d2033;
-
+  
   --text-color: #1c224a;
   --main-background: #ffffff;
   --header-background: var(--main-background);
-  --footer-background: #0d0c25;
+  --footer-background: #ffffff;
 }
 
 /* SHELL ---------------------------------------- */
@@ -63,7 +63,7 @@ main {
 h1,
 h2,
 h3 {
-  color: white;
+  color: black;
   margin: 0;
 }
 
