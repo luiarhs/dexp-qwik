@@ -33,7 +33,7 @@
 }
 
 .header li a {
-  color: white;
+  color: var(--dexp-mexican-pink);
   display: inline-block;
   padding: 0;
   text-decoration: none;
