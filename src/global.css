@@ -127,11 +127,11 @@ ul {
   then applying styles to it here in the global CSS file.
 */
 .builder-footer a {
-  color: var(--text-color);
+  color: var(--dexp-aqua);
   text-decoration: none;
 }
 
 .builder-footer a:hover {
-  color: var(--qwik-light-blue);
+  color: #ffffff;
   text-decoration: underline;
 }
